@@ -36,3 +36,6 @@ So the x number of sampled of cluster are taken with a criteria that is the samp
 And there fore a perfect training set is formed which is balanced.
 Detailed Block Diagram is available in next slide.
 
+![Diagramatic representation of this program](https://github.com/chaithu123/ClassImbalanceLearning/blob/master/ss.jpg)
+
+
